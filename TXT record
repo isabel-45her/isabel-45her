@@ -1,0 +1,9 @@
+192.168.43.43 my ip
+Verizon-ASUS-Z8-9a3c
+BSSID: 70:8b:cd:e3:9a:3c
+security: PSK (WPA or RSN)
+frequency: 2412
+Subnet mask: 255.255.255.0
+Gateway: 192.168.43.1
+ipv6: 2600:1011:b13c:fb70:d81d:538d:531d:3818 // not mine don't know about ipv6
+mac: 00:E9:3A:27:50:B1
