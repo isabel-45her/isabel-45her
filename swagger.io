@@ -1,128 +1,48 @@
 GET /https://www.federalregister.gov/developers/documentation/api/v1/
 // Needs debugging big-time
 // Can't do a damn thing.all the way around.
-<html class=" mdrnzr-js mdrnzr-cssgradients mdrnzr-svg"><head>
+<html class="successfully"><head>
     <title>
       Federal Register
        :: 
       API Documentation
+      use github-pages
     </title>
 
     <!-- Tell search engines to use the proper hostname and protocol -->
     <link rel="canonical" href="https://www.federalregister.gov/developers/documentation/api/v1">
 
-    <link rel="alternate icon" type="image/png" href="https://www.federalregister.gov/assets/fr2_favicon-e64975e0e7df2bd990d1adf414332311038b22e3129a03d556ecffd9428d6783.png">
-    <link rel="icon" type="image/svg+xml" href="https://www.federalregister.gov/assets/fr2_favicon-4140f7a04934cf48501e3b03d299dae7e94a3b86834aa7cc2bddb83d9179443e.svg">
-    <link rel="apple-touch-icon" href="https://www.federalregister.gov/assets/fr2_favicon-e64975e0e7df2bd990d1adf414332311038b22e3129a03d556ecffd9428d6783.png">
 
     <meta name="viewport" content="initial-scale=1.0">
 
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="keywords" content="government federal register executive rulings notices">
+<meta name="contact" content="swagger"
 <meta http-equiv="X-UA-Compatible" content="chrome=1">
-<meta name="medium" content="news">
+<meta name="fioa504@fioa.gov content="messages-fed-docs-affecting-our-safety-assets-communication-vehicles-property-federalbenifets">
 
-<meta name="title" content="API Documentation">
-<meta name="description" content="">
-
-<!-- Open Graph Tags -->
+<meta name="editable="false" content="API Documentation">
+<meta name= DELETE /https://cma-ch.mycardplace.com/vbv/passwordVerification.action;jsessionid=C04ABA4A04CAD9786B515305DB8917F5"   <link rel="delete access denial" type="delete address">
+<meta name="REMOVE"  content="javascript:void(0)" value:"["ACCESS DENIED","ERROR","table-cell", "onclick-backToCholder3()", ""access denied" src="https://cdn3.mycardplace.com/componentcontentdelivery/cstatic/884114f2-cd4f-4427-9C37-6a1456d012b/vbv-error-404.png">
+					<p class="vbv-error-heading ">Error!</p>""	"div class="container"
+	<div class="row">
+		<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+			<div class="vbv-error-page"]" />
+					
+			
 <meta property="og:title" content="API Documentation">
 <meta property="og:site_name" content="Federal Register">
 <meta property="og:image" content="https://www.federalregister.gov/assets/open_graph_site_banner.png">
 <meta property="og:image:width" content="832">
 <meta property="og:image:height" content="200">
 <meta property="og:url" content="https://www.federalregister.gov/developers/documentation/api/v1">
-<meta property="og:description" content="Search, browse and learn about the Federal Register. Federal Register 2.0 is the unofficial daily publication for rules, proposed rules, and notices of Federal agencies and organizations, as well as executive orders and other presidential documents.">
+<meta property="og:description" content="Search, browse and learn about the Federal Register. Federal Register 3.0 is the official daily publication for complaints, reporting docs affecting your daily safety, rules, proposed rules, and notices of Federal agencies and organizations, as well as executive orders and other presidential documents.">
 
 
 
     <link rel="image_src" href="https://www.federalregister.gov/images/fbdisplay.jpg">
 
-    <link rel="stylesheet" media="all" href="/assets/vendor-4efd9cfa1df894eab8a17da9df88afe76c47237e33a6a8571f4164535aa8bf01.css">
-    <link rel="stylesheet" media="all" href="/assets/application-215599cc8af5ddbaf4390af22887802d6c6ce13f26bd6263f2c43f10cbdf7003.css">
-    <link rel="stylesheet" media="print" href="/assets/print-ff752e0e22629332d2b6f568ee54b056703ccc9116678ec1d5bc34c397ed75e5.css">
-
-    <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js" nonce=""></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="/assets/vendor-6e87781da741343f2b0a098d4d413d07b4e357d57598f3c08d0448148ae86ce2.js" nonce=""></script>
-    <script src="/assets/application-9466e46641bc788879a5131e54e6a9e7c96d8ca0577e6bf772044d39cb7b1eb3.js" nonce=""></script>
-
-    <script src="/assets/swagger-e81e7e4d893da1c487f45c5b5f4bf9032c4dd773bb0d6e1a7aba0e40961dd828.js" nonce=""></script>
-    
-
-    <script id="flickr-exit-modal-template" type="text/x-handlebars-template"><div id="exit_modal">
-  <a href="#" class="jqmClose">Close</a>
-  <h3 class="title_bar">Notice</h3>
-
-  <h4>You are now leaving the FederalRegister.gov website.</h4>
-
-  <p>
-    Click the link below to continue or wait 10 seconds to be
-    transferred to:
-  </p>
-
-  <a href="http://www.flickr.com/" class="external_link flickr_link">
-    http://www.flickr.com/
-  </a>
-
-  <p>
-    You are linking to a photograph that is sourced from Flickr under
-    a Creative Commons license. All photographs on FederalRegister.gov
-    section pages are published with attribution to the photo owner, and
-    are consistent with the terms of use specified by the photo owner.
-    For more information on
-    <a href="http://www.flickr.com/" title="Welcome to Flickr - Photo Sharing">Flickr</a>
-    and
-    <a href="http://creativecommons.org/" title="">Creative Commons</a>
-    licensing see:
-    <a href="http://www.flickr.com/creativecommons/" title="Flickr: Creative Commons">http://www.flickr.com/creativecommons/</a>.
-    The photographs on section pages are generic illustrations of
-    subject matter; they are not abstracted from the text of Federal Register
-    documents. FederalRegister.gov assumes no responsibility for public
-    comments on photographs that may appear on the Flickr website.
-  </p>
-
-  <p>
-    We have provided a link to this site because it has information that may
-    interest you. This link is not an endorsement by the National Archives’s
-    Office of the Federal Register or the Government Publishing Office of
-    the opinions, products, or services presented on this site, or any sites
-    linked to it. We are not responsible for the legality or accuracy of
-    information on this site, the policies, or for any costs incurred while
-    using this site.
-  </p>
-
-  <p>Thank you for visiting FederalRegister.gov!</p>
 </div>
-</script>
-    <script id="print-disclaimer-template" type="text/x-handlebars-template"><p>
-  This site displays a prototype of a “Web 2.0” version of the daily
-  Federal Register. It is not an official legal edition of the Federal
-  Register, and does not replace the official print version or the official
-  electronic version on GPO’s govinfo.gov.
-</p>
-
-<p>
-  The documents posted on this site are XML renditions of published Federal
-  Register documents. Each document posted on the site includes a link to the
-  corresponding official PDF file on govinfo.gov. This prototype edition of the
-  daily Federal Register on FederalRegister.gov will remain an unofficial
-  informational resource until the Administrative Committee of the Federal
-  Register (ACFR) issues a regulation granting it official legal status.
-  For complete information about, and access to, our official publications
-  and services, go to
-  <a href="https://www.archives.gov/federal-register/the-federal-register/about.html" title="About the Federal Register">
-    About the Federal Register
-  </a>
-   on NARA's archives.gov.
-</p>
-
-<p>
-  The OFR/GPO partnership is committed to presenting accurate and reliable
-  regulatory information on FederalRegister.gov with the objective of
-  establishing the XML-based Federal Register as an ACFR-sanctioned
-  publication in the future. While every effort has been made to ensure that
-  the material on FederalRegister.gov is accurately displayed, consistent with
-  the official SGML-based PDF version on govinfo.gov, those relying on it for
-  legal research should verify their results against an official edition of
+</n official edition of
   the Federal Register. Until the ACFR grants it official status, the XML
   rendition of the daily Federal Register on FederalRegister.gov does not
   provide legal notice to the public or judicial notice to the courts.
@@ -133,40 +53,13 @@ GET /https://www.federalregister.gov/developers/documentation/api/v1/
     <script id="email-suggestion-template" type="text/x-handlebars-template"><span class='email_suggestion'>
   Did you mean <span class='link' data-suggestion='{{suggestion.full}}'>{{suggestion.full}}</span>?
 </span>
-</script>
-    <script id="email-invalid-template" type="text/x-handlebars-template"><span class='email_invalid'>
-  {{#if blank}}
-    Email address cannot be blank.
-  {{/if}}
+<
 
-  {{#unless blank}}
-    Email address is not valid.
-  {{/unless}}
-</span>
-</script>
-
-    <!-- comment feature templates -->
-    <script id="comment-header-template" type="text/x-handlebars-template"><p>
-  <span class="icon-fr2 icon-fr2-Chat "></span>
-  {{#if commentPeriodOpen }}
-    This document has a comment period that ends {{commentDaysRemaining}}.
-    ({{commentsCloseOn}})
-  {{else}}
-    Comments on this document are being accepted at Regulations.gov.
-  {{/if}}
-
-  <a href="{{commentUrl}}" class="button formal_comment" data-comment="1" id="start_comment" target="_blank">
-    Submit a formal comment
-  </a>
-</p>
-</script>
-    <script id="new-comment-byline-template" type="text/x-handlebars-template"><span class="icon-fr2 icon-fr2-Chat"></span>
-
-<div class="byline">
+<div class="submit">
   You are submitting an official comment to Regulations.gov.
-  {{#if commentDueDate}}
+  {if commentDueDate}
     <br>
-    Comments are due {{commentDueDate}}.
+    Comments are due {commentDueDate}
   {{/if}}
 </div>
 
@@ -174,44 +67,7 @@ GET /https://www.federalregister.gov/developers/documentation/api/v1/
   src="/assets/regulations_dot_gov_logo-6a990514f94ea77090a6b98aff8a2d1b186b384676acec9f82514109b187b05b.png"
   class="reg_gov_logo">
 
-<a href="" class="close-comment-form" id="close-comment-form">
-  close comment form
-</a>
-</script>
-    <script id="comment-attachment-upload-template" type="text/x-handlebars-template">{{#each files}}
-  <tr class="template-upload fade" data-name="{{this.name}}">
-    <td class="name"><span>{{this.name}}</span></td>
-    <td class="progress-bar">
-      <div class="progress progress-striped active" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"><div class="bar" style="width:100%;">Uploading</div></div>
-    </td>
-    <td class="size"><span>{{human_size this.size}}</span></td>
-    <td class="cancel">
-      <button class="button cancel">
-        <span class="icon-fr2 icon-fr2-delete"></span>
-        <span class="action">Cancel</span>
-      </button>
-    </td>
-  </tr>
-{{/each}}
-</script>
-    <script id="comment-attachment-complete-template" type="text/x-handlebars-template">{{#each files}}
-<tr class="template-download fade{{#if this.error}} error {{else}} complete {{/if}}" data-name="{{this.name}}">
-    <td class="name">
-      <span>{{this.name}}</span>
-      <input type="hidden" name="comment[attachment_tokens][]" value="{{this.token}}" />
-    </td>
-    {{#if this.error}}
-      <td class="error" colspan="2"><span class="label label-important">Error:</span> {{this.error}}</td>
-    {{else}}
-      <td class="progress-bar">
-        <div class="progress progress-success" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"><div class="bar" style="width:100%;">Upload Complete</div></div>
-      </td>
-    {{/if}}
-    <td class="size"><span>{{human_size this.size}}</span></td>
-    <td class="delete">
-      <button class="button delete" data-type="DELETE">
-        <span class="icon-fr2 icon-fr2-delete"></span>
-        <span>Delete</span>
+>
       </button>
     </td>
   </tr>
