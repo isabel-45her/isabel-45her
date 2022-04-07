@@ -11,8 +11,12 @@ You can click the Preview link to take a look at your changes.
 
 
 1. Create a TXT record in your DNS configuration for the following hostname: _github-challenge-Acme-C.travieso.top
-2. Use this code for the value of the TXT record: d4909538a8. Please note that the code will expire in 7 days.
-3. Wait until your DNS configuration changes. This could take up to 72 hours to propagate.
+2. Configure for me.plz
+3. Use this code for the value of the TXT record: d4909538a8. Please note that
+4. Configure for me plz.
+5. Wait until your DNS configuration changes. This could take up to 72 hours to propagate.
+6. Successfully
+7. Thank you
 
 
 
